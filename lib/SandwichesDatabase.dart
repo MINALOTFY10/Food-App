@@ -8,7 +8,6 @@ import 'main.dart';
 
 class SandwichDatabase {
 
-  // price double , image string , name string
 
   static late Database database;
   static List<Item> data =[];
